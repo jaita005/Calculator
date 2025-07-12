@@ -1,5 +1,9 @@
 # Calculator
 
+<img width="2555" height="1347" alt="image" src="https://github.com/user-attachments/assets/2102d3c0-b8d9-4bd7-a1eb-86bac7c0d656" />
+
+## Description
+
 A clean and responsive calculator built using HTML, CSS, and JavaScript, mimicking a smartphone-style interface. The calculator supports basic arithmetic operations with real-time display updates and smooth button interactions.
 
 ## Features
